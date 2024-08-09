@@ -18,12 +18,15 @@
     <ClCompile Include="exam2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="email.cpp">
+    <ClCompile Include="Email.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="console.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="email.h">
+    <ClInclude Include="Email.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

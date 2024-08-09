@@ -127,11 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="email.cpp" />
+    <ClCompile Include="console.cpp" />
+    <ClCompile Include="Email.cpp" />
     <ClCompile Include="exam2.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="email.h" />
+    <ClInclude Include="Email.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
